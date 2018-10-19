@@ -1,0 +1,81 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Red Curry",
+      "type": "curry",
+      "ethnicity": "thai",
+      "id": 2,
+      "meal": "every meal"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Tacos",
+      "type": "meaty-cheesy",
+      "ethnicity": "Mexican",
+      "id": 6
+    },
+    {
+      "name": "Burgers",
+      "type": "sandwhich",
+      "ethnicity": "AMERICAN",
+      "id": 7
+    }
+  ],
+  "drink": [
+    {
+      "id": 1,
+      "name": "Dr. Pepper",
+      "type": "Soda",
+      "ethnicity": "American"
+    },
+    {
+      "name": "Guiness",
+      "type": "Beer",
+      "ethnicity": "Irish",
+      "id": 2
+    }
+  ],
+  "desert": [
+    {
+      "name": "Brownie",
+      "type": "chocolate",
+      "ethnicity": "american?",
+      "id": 1
+    },
+    {
+      "name": "cookies",
+      "type": "chocolate",
+      "ethnicity": "american?",
+      "id": 2
+    },
+    {
+      "name": "banana's foster",
+      "type": "fruit",
+      "ethnicity": "european?",
+      "id": 3
+    }
+  ]
+}
